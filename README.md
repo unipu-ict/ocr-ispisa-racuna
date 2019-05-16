@@ -1,4 +1,4 @@
-# ocr-ispisa-racuna
+# ocr-ispisa-racuna (mobapp)
 Mobilna aplikacija za OCR ispisa fiskalnih računa, parsiranje i pohrana u bazu podataka.
 
 ### Autori (2018./2019.)
